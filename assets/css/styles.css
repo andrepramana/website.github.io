@@ -829,7 +829,7 @@ ul.side-nav li.active a span {
     margin: auto;
     position: relative;
     width: 92.5%;
-    height: 55vh;
+    height: 60vh;
     overflow: hidden;
     filter: grayscale(100%) blur(1px);
 
